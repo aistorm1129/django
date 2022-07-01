@@ -1,4 +1,4 @@
-This is the complete source code from the [Django Rest Framework & React Tutorial](https://wsvincent.com/django-rest-framework-react-tutorial/).
+This is the complete source code from the [Django Rest Framework & React Tutorial](https://wsvincent.com/django/).
 
 # Local Setup
 
@@ -8,8 +8,8 @@ Clone the repo to your computer. For example, to place it on your `Desktop`.
 
 ```
 $ cd ~/Desktop
-$ git clone https://github.com/wsvincent/django-rest-framework-react-tutorial.git
-$ cd django-rest-framework-react-tutorial
+$ git clone https://github.com/wsvincent/django.git
+$ cd django
 ```
 
 ## Backend
@@ -31,7 +31,7 @@ Open up a new command line console so there are now **two** open. Navigate to th
 
 ```
 $ cd ~/Desktop
-$ cd django-rest-framework-react-tutorial
+$ cd django
 $ cd frontend
 ```
 
