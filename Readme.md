@@ -8,7 +8,7 @@ Clone the repo to your computer. For example, to place it on your `Desktop`.
 
 ```
 $ cd ~/Desktop
-$ git clone https://github.com/wsvincent/django.git
+$ git clone https://github.com/AlexPak92/django.git
 $ cd django
 ```
 
